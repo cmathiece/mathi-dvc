@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote-s3
+['remote "dvc-remote-s3"']
+    url = s3://ds-mlflow-data-tracking-dvc-qa
