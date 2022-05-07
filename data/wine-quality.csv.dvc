@@ -1,5 +1,5 @@
 outs:
-- md5: a82b9f229105f7a2db23c0c5dd4ccee6
+- md5: 73eabbd1a5255d9338bd5ef4e36f273f
   size: 1276
   isexec: true
   path: wine-quality.csv
